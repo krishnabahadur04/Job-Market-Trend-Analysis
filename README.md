@@ -58,4 +58,4 @@ Potential areas for future work include:
 
 ## Author
 
-- **Krishna Bahadur** - [GitHub Profile](https://github.com/your-github-profile-link)
+- **Krishna Bahadur** - [GitHub Profile](https://github.com/krishnabahadur04)
